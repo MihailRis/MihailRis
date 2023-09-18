@@ -1,1 +1,1 @@
-// todo
+`$ pulseaudio -k`
