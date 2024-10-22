@@ -1,1 +1,2 @@
-// fixme
+- <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/512px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube"/> [@MihailRis](https://www.youtube.com/@MihailRis)
+- <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/121px-Telegram_2019_Logo.svg.png" alt="YouTube"/> [@MihailRis](https://t.me/MihailRis)
